@@ -1,4 +1,4 @@
 # Evaluación
-**Nombre:** José Villalta
-**Carrera:** Computación
-**Asignatura:** Sistemas Distribuidos
+**Nombre:** José Villalta <br>
+**Carrera:** Computación <br>
+**Asignatura:** Sistemas Distribuidos <br>
